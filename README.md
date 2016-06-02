@@ -1,9 +1,7 @@
 QlikSense Automated Task Failure Email Alerts
 =============================================
 
-![](media/image1.tmp){width="6.0in"
-height="6.916666666666667in"}![](media/image2.tmp){width="6.5in"
-height="2.9895833333333335in"}
+![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/UI.jpg)![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Email2.jpg)
 
 
 This is an automated QlikSense task failure email alert tool. It is
