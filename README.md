@@ -57,13 +57,13 @@ scheduled event. Below are detailed instructions on this process:
 2.  Once the installation is complete. It will create a new program
     group called “**QlikSense Email Alerts**”
 
-> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ProgramMenu.png)
+> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ProgramMenu.jpg)
 >
 > 3\. Right Click on **QlikSense Email Alert** and choose **Run as
 > Administrator  (*Run as Admin is required to be able to save your
 > changes*)**
 >
-> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/programsadmin.png){width="2.21875in" height="4.03125in"}
+> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ProgramsAdmin.jpg)
 >
 > 4\. Configuring the Alerting System is done in 3 steps.
 >
