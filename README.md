@@ -4,7 +4,7 @@ QlikSense Automated Task Failure Email Alerts
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/UI.jpg)![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Email2.jpg)
 
 
-* This is an automated QlikSense task failure email alert tool. It is
+This is an automated QlikSense task failure email alert tool. It is
 designed to run unattended like a windows service to send emails if a
 failure is detected in any of the tasks. It uses repository(qmc) api
 calls to query only the failed tasks and emails notices if any found.
