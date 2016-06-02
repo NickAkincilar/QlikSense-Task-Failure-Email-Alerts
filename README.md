@@ -99,9 +99,7 @@ scheduled event. Below are detailed instructions on this process:
             advanced time or execution related changes can be made to
             this task manually after it has been created***)** 
 
-> ![](media/image5.tmp){width="6.5in"
-> height="2.6354166666666665in"}![](media/image6.tmp){width="6.5in"
-> height="3.3854166666666665in"}
+> ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Task Scheduler.jpg)![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/TaskUI.jpg)
 >
 > 5\. Test the functionality. For this you have two options: 
 
@@ -135,7 +133,7 @@ If everything is configured properly and you have failed tasks, you
 should start getting alerts like this (*sorry no attached log files as
 of now*) .
 
-![](media/image2.tmp){width="6.5in" height="2.9895833333333335in"}
+![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Email2.jpg)
 
 
  
