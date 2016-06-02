@@ -160,7 +160,7 @@ of now*) .
 
  
 
-**CHANGING GMAIL SETTINGS **
+### **CHANGING GMAIL SETTINGS **
 
 If you are planning to use Gmail SMTP server to send emails then you
 need to follow these instructions to allow 3rd party apps to use your
