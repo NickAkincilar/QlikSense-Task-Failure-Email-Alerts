@@ -30,16 +30,6 @@ operation.
     registry settings and run as unattended program using the specified
     parameters in the argument itself
 
-> **-proxy**:https://localhost\
-> **-wait**:60000\
-> **-smtp\_server:**smtp.gmail.com\
-> **-smtp\_port:**587\
-> **-smtp\_enableSSL:**Y\
-> **-stmp\_user:**YourEmail@gmail.com\
-> **-smtp\_pw:**YourEmailPassword\
-> **-smtp\_from:**YourEmail@gmail.com\
-> **-smtp\_to:**UserToBeNotified@YourCompany.com
-
 Example: 
 
 **QlikSenseEmailAdmin.exe** **-proxy:**https://localhost **-wait:**60000 **-smtp\_server:**smtp.gmail.com **-smtp\_port:**587 **-smtp\_enableSSL:**Y **-stmp\_user:**YourEmail@gmail.com **-smtp\_pw:**YourEmailPassword** -smtp\_from:**YourEmail@gmail.com
