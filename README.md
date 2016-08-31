@@ -1,7 +1,15 @@
+
 QlikSense Automated Task Failure Email Alerts
 =============================================
 
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/UI.jpg)![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Email2.jpg)
+
+### Release Notes
+
+- 8/31/2016 Version 1.2 is released. 
+    - Added **RESET HISTORY** button on the GUI to easily reset the 24 hour wait period for previously sent notifications.
+    - Changed **FAILED TASK** logic filter so it ignores **DISABLED TASKS**. Previously it would sent emails even if the task was disabled.
+
 
 
 This is an automated QlikSense task failure email alert tool. It is
