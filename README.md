@@ -17,7 +17,7 @@ QlikSense Automated Task Failure Email Alerts
 
 ### Release Notes
 
-- 2/9/2017 Version 1.4 is released.  [Download Ver 1.4!](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/QlikSense_Email_Alerts_V1_4.zip)
+- 2/9/2017 Version 1.4 is released.  [Download Ver 1.4! Installer](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/QlikSense_Email_Alerts_V1_4.zip)  -  [Download Ver 1.4 VisualStudio Project File](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/QlikSenseEmailAdmin_V14_VS_Project.zip)
     - Added Multiple Email Address Distribution option using QMC Custom Properties. You can now assign different email addresses to each individual task in QMC using a custom property. Multiple emails can also be assign to each task as well. 
     - Added **VIEW SEND HISTORY** & **VIEW LOG** buttons on the GUI to easily view detailed log files and sent history.
 
