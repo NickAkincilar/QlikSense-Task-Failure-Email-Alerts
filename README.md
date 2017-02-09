@@ -6,6 +6,10 @@ QlikSense Automated Task Failure Email Alerts
 
 ### Release Notes
 
+- 2/9/2017 Version 1.4 is released. 
+    - Added Multiple Email Address Distribution option using QMC Custom Properties. You can now assign different email addresses to each individual task in QMC using a custom property. Multiple emails can also be assign to each task as well. 
+    - Added **VIEW SEND HISTORY** & **VIEW LOG** buttons on the GUI to easily view detailed log files and sent history.
+
 - 8/31/2016 Version 1.2 is released. 
     - Added **RESET HISTORY** button on the GUI to easily reset the 24 hour wait period for previously sent notifications.
     - Changed **FAILED TASK** logic filter so it ignores **DISABLED TASKS**. Previously it would sent emails even if the task was disabled.
