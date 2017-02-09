@@ -5,7 +5,7 @@ QlikSense Automated Task Failure Email Alerts
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ScreenshotV14a.png)
 
 
-1. To Assign individual emails for alerting, first create a custom property. Check for Reload Tasks and populate with email addresses.
+1. To Assign individual emails for alerting, first create a custom property. Check for Reload Tasks and populate with email addresses. Make sure to use the same property name in the Alert tool's Configurion screen.
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/QMC_property.png)
 
 
