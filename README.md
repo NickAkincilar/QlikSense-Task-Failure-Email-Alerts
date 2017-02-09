@@ -4,7 +4,7 @@ QlikSense Automated Task Failure Email Alerts
 
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ScreenshotV14a.png)
 
-![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/QMC_Property.png)
+![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/QMC_property.png)
 
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/QMC_Task.png)
 
