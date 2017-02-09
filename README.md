@@ -4,12 +4,15 @@ QlikSense Automated Task Failure Email Alerts
 
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ScreenshotV14a.png)
 
-To Assign individual emails for alerting, first create a custom property. Check for Reload Tasks and populate with email addresses.
+
+1. To Assign individual emails for alerting, first create a custom property. Check for Reload Tasks and populate with email addresses.
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/QMC_property.png)
 
-Now you can edit each reload task and assign one or more emails for alerting. If a custom property is not setup or the value is blank, then tool will use the default email address configured in the setup screen instead.
+
+2. Now you can edit each reload task and assign one or more emails for alerting. If a custom property is not setup or the value is blank, then tool will use the default email address configured in the setup screen instead.
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/QMC_Task.png)
 
+3. If a task fails then you get an email like this.
 ![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/Email2.jpg)
 
 ### Release Notes
@@ -22,7 +25,7 @@ Now you can edit each reload task and assign one or more emails for alerting. If
     - Added **RESET HISTORY** button on the GUI to easily reset the 24 hour wait period for previously sent notifications.
     - Changed **FAILED TASK** logic filter so it ignores **DISABLED TASKS**. Previously it would sent emails even if the task was disabled.
 
-
+**You can now use multiple email addresses for alerting and management and assigment of emails are done entirely in QMC using custom properties.**
 
 This is an automated QlikSense task failure email alert tool. It is
 designed to run unattended like a windows service to send emails if a
