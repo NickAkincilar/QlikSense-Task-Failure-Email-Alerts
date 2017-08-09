@@ -6,7 +6,7 @@ QlikSense Automated Task Failure Email Alerts
 
 ### Release Notes
 - 8/9/2017 Version 1.4b is released. (***Fixed array error! Make sure the AD Account running the task has QMC access to tasks***) 
-    - [***Download Ver 1.4b! Installer***](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/QlikSense_Email_Alerts_V1_4a.zip?raw=true)
+    - [***Download Ver 1.4b! Installer***](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/QlikSenseEmailAlert_1_4b.zip?raw=true)
 
 - 2/9/2017 Version 1.4a is released.  
     - [***Download Ver 1.4a! Installer***](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/QlikSense_Email_Alerts_V1_4a.zip?raw=true)
