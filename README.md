@@ -2,7 +2,7 @@
 QlikSense Automated Task Failure Email Alerts
 =============================================
 
-![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ScreenshotV14c.png)
+![](https://github.com/NickAkincilar/QlikSense-Task-Failure-Email-Alerts/blob/master/images/ScreenshotV14d.png)
 
 ### Release Notes
 
